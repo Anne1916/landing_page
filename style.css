@@ -214,12 +214,8 @@ nav{
 .gallery a{
     margin: 15px;
 }
-.size-1{
+.size{
     width: 380px;
-}
-
-.size-2{
-    width: 250px;
 }
 
 .main-piper{
